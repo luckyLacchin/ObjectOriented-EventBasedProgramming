@@ -8,6 +8,7 @@ This course provides students with a comprehensive understanding of object-orien
 - Scope rules and visibility of identifiers
 - Structured code and data structures
 - Abstraction
+- use of JavaFX in order to do also interactive user interfaces.
 
 The course emphasizes the principles of object-oriented programming, including:
 
@@ -18,30 +19,3 @@ The course emphasizes the principles of object-oriented programming, including:
 - Static and dynamic binding
 
 Additionally, students will be introduced to **functional programming (FP)**, gaining a foundational understanding of this paradigm.
-
----
-
-## Key Topics
-
-- **Object-Oriented Programming (OOP)**:
-  - Classes and objects
-  - Inheritance and polymorphism
-  - Information hiding
-  - Static vs. dynamic binding
-
-- **Functional Programming (FP)**:
-  - Introduction to functional programming concepts and paradigms
-
-- **Programming Constructs**:
-  - Memory management
-  - Scope and visibility rules
-  - Abstraction and data structures
-
-- **Languages Covered**:
-  - Standard ML
-  - Java
-  - C++
-
-- **Additional Skills**:
-  - Basic UML representation
-  - Documentation practices
